@@ -1,0 +1,11 @@
+name: zkf-notebook-demo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - plotly
+  - matplotlib
+  - jupyter
+  - requests
+prefix: /Users/tylermneher/anaconda3/envs/zkf-notebook-demo
